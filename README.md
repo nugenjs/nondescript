@@ -1,5 +1,5 @@
 # nondescript
-Collection of unremarkable tools, that isn't easy on the eyes
+Collection of unremarkable tools, that aren't easy on the eyes.
 
 <br>
 
