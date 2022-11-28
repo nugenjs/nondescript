@@ -10,7 +10,7 @@ Collection of unremarkable tools
 
 # run
 node example.js  
-npx tsc example.ts || node example.js
+npx tsc example.ts | node example.js
 
 
 <br>
