@@ -19,4 +19,4 @@ npx tsc example.ts | node example.js
 
 ---
 
-27:40 ep.9 of Kyou Kara Ore Wa!!
+27:40 ep.9 Kyou Kara Ore Wa!!
